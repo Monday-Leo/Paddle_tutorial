@@ -2,7 +2,7 @@
 
 - CSDN博客地址：https://blog.csdn.net/weixin_45747759?spm=1010.2135.3001.5343
 - Github仓库地址：https://github.com/Monday-Leo/Paddle_tutorial
-- B站视频教程地址：
+- B站视频教程地址：https://www.bilibili.com/video/BV18b4y1J7a6/
 
 ## 目录
 
