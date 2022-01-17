@@ -47,8 +47,9 @@
 ### 分割（Segmentation）
 
 <div align="center">
-<img src="assets/6.gif">
+<img src="https://github.com/Monday-Leo/Paddle_tutorial/blob/master/%E7%AC%AC2%E8%AE%B2%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%9A%84%E5%88%86%E7%B1%BB/assets/6.gif">
 </div>
+
 
 分割任务的难度再次增加，任务要求不仅需要确定位置，还需要**勾勒出物体的轮廓**，类似**PS的抠图**，过滤去背景。例如上图所示的**工业读表**，**车道线分割**等等，这类任务对于模型和算法的考验较大，在特定的场合中有一定的应用。
 
