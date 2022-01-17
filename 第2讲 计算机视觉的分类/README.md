@@ -47,7 +47,7 @@
 ### 分割（Segmentation）
 
 <div align="center">
-<img src="https://github.com/Monday-Leo/Paddle_tutorial/blob/master/%E7%AC%AC2%E8%AE%B2%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%9A%84%E5%88%86%E7%B1%BB/assets/6.gif">
+<img src="assets/6.gif">
 </div>
 
 
