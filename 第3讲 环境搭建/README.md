@@ -7,7 +7,7 @@ https://pan.baidu.com/s/1SqEpDgNycHs7ZHbNfZlv7A
 提取码：mclu
 ```
 
-双击打开anaconda软件安装包：
+双击打开Anaconda软件安装包：
 
 <div align="center">
 <img src="assets/1.png" width="400">
