@@ -165,7 +165,7 @@ nvcc -V
 
 复制出现的命令到anaconda安装即可，**注意一定要切换到自己想要的环境中（如 Paddle_tutorial）**
 
-### paddle安装校验
+### Paddle安装校验
 
 执行以下的Python代码，检查是否成功调用GPU资源
 
