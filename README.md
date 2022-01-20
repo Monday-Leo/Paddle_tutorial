@@ -12,4 +12,5 @@
 | [计算机视觉的分类](https://github.com/Monday-Leo/Paddle_tutorial/tree/master/%E7%AC%AC2%E8%AE%B2%20%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89%E7%9A%84%E5%88%86%E7%B1%BB) | 传统计算机视觉和深度学习              |
 | [环境搭建](https://github.com/Monday-Leo/Paddle_tutorial/tree/master/%E7%AC%AC3%E8%AE%B2%20%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA) | Anaconda、VS Code、CUDA和Paddle的安装 |
 | [深度学习的基本实现流程](https://github.com/Monday-Leo/Paddle_tutorial/tree/master/%E7%AC%AC4%E8%AE%B2%20%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%AE%9E%E7%8E%B0%E6%B5%81%E7%A8%8B) | 深度学习基本的五大步骤                |
+| PaddleX实现垃圾分类                                          | 实战：利用PaddleX入门简单的图像分类   |
 
