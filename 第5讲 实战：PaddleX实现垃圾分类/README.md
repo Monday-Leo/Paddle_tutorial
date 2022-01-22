@@ -21,6 +21,16 @@ Microsoft Visual C++ 14.0 is required
 链接：https://pan.baidu.com/s/17pSEX9ZO28_OIPdaeNAe3A 
 提取码：xhu4
 
+**如果出现下载预训练模型报错**
+
+```
+SSLError("Can't connect to HTTPS URL because the SSL module is not available)
+```
+需要安装OpenSLL工具，下载链接如下：
+
+链接：[https://pan.baidu.com/s/1Z3F9cIH3-6QrsqnAoK-pBw](https://pan.baidu.com/s/1Z3F9cIH3-6QrsqnAoK-pBw) 
+提取码：ucko
+
 ### 数据集的准备
 
 数据集下载链接：

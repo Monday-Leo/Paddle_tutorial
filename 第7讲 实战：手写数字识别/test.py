@@ -6,7 +6,7 @@ from paddle.vision.transforms import ToTensor
 import paddle.nn.functional as F
 
 valid_loader = MNIST(mode='test', transform=ToTensor())
-img = np.array(valid_loader[0][0])
+img = np.array(valid_loader[0][0]) #[1,28,28]
 
 # import matplotlib.pyplot as plt
 # plt.imshow(img.squeeze(), cmap='gray')
