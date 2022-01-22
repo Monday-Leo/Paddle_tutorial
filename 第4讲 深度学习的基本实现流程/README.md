@@ -54,7 +54,7 @@ pred = F(x)
 $$
 再用最简单公式求出误差:
 $$
-loss =\frac{1}{2}\times(pred - y)^2 = \frac{1}{2}\times(F(x)-y)^2
+loss =(pred - y)^2 = (F(x)-y)^2
 $$
 可以看出loss是和模型所有参数都有关的一个函数，假设**loss的曲线**如下：
 
