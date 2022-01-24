@@ -26,13 +26,9 @@
 
 **MobilenetV3**中使用了**Hardswish**激活函数，代替了**Swish**激活。
 
-$$
-\begin{split}Hardswish(x)= \left\{ \begin{aligned} &0, & & \text{if } x \leq -3 \\ &x, & & \text{if } x \geq 3 \\ &\frac{x(x+3)}{6}, & & \text{otherwise} \end{aligned} \right.\end{split}
-$$
-
-$$
-Swish(x) = \frac{x}{1 + e^{-x}}
-$$
+<div align="center">
+<img src="assets/7.png" width="400">
+</div>
 
 从公式上来看，**Hardswish**代替了指数函数，从而**降低了计算的成本**，使模型轻量化。
 
