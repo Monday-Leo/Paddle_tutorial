@@ -12,7 +12,6 @@
 <img src="assets/1.png" width="600">
 </div>
 
-
 **MobilenetV3**的主体部分大量使用了**深度可分离卷积**，在上一讲中我们做了详细的介绍。再次指出，这种卷积结构**极大地减少了参数量**，对于轻量级的网络是非常有利的。
 
 ### SE注意力机制
@@ -27,10 +26,13 @@
 
 **MobilenetV3**中使用了**Hardswish**激活函数，代替了**Swish**激活。
 
+$$
+\begin{split}Hardswish(x)= \left\{ \begin{aligned} &0, & & \text{if } x \leq -3 \\ &x, & & \text{if } x \geq 3 \\ &\frac{x(x+3)}{6}, & & \text{otherwise} \end{aligned} \right.\end{split}
+$$
 
-$$\begin{split}Hardswish(x)= \left\{ \begin{aligned} &0, & & \text{if } x \leq -3 \\ &x, & & \text{if } x \geq 3 \\ &\frac{x(x+3)}{6}, & & \text{otherwise} \end{aligned} \right.\end{split}$$
-
-$$Swish(x) = \frac{x}{1 + e^{-x}}$$
+$$
+Swish(x) = \frac{x}{1 + e^{-x}}
+$$
 
 从公式上来看，**Hardswish**代替了指数函数，从而**降低了计算的成本**，使模型轻量化。
 
@@ -47,7 +49,6 @@ $$Swish(x) = \frac{x}{1 + e^{-x}}$$
 <div align="center">
 <img src="assets/4.png" width="600">
 </div>
-
 
 **MobilenetV2**最后的尾部使用了**四层卷积层再接了一个平均池化**，**MobilenetV3**仅通过**一个卷积层**修改通道数后，直接接了**平均池化层**。这也**大大减少了网络的参数**量，在实验中发现，**精度并没有降低**。
 
