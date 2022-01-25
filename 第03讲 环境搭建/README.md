@@ -92,7 +92,7 @@ pip config list
 <img src="assets/8.png">
 </div>
 
-点击VS Code左侧最后一个按钮，扩展工具，搜索**Python**，**Pylance**进行安装。当然，如果想切换成中文，可以安装**Chinese (Simplified)**扩展。
+点击VS Code左侧最后一个按钮，扩展工具，搜索**Python**，**Pylance**进行安装。当然，如果想切换成中文，可以安装Chinese (Simplified)扩展。
 
 
 
