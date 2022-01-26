@@ -18,4 +18,5 @@
 | [常用的卷积结构](https://github.com/Monday-Leo/Paddle_tutorial/tree/master/%E7%AC%AC08%E8%AE%B2%20%E5%B8%B8%E7%94%A8%E7%9A%84%E5%8D%B7%E7%A7%AF%E7%BB%93%E6%9E%84) | 残差结构，深度可分离卷积以及SE注意力机制详解                |
 | [MobilenetV3网络详解](https://github.com/Monday-Leo/Paddle_tutorial/tree/master/%E7%AC%AC09%E8%AE%B2%20MobilenetV3%E7%BD%91%E7%BB%9C%E8%AF%A6%E8%A7%A3) | MobilenetV3的主体结构以及使用PaddleClas完成训练垃圾分类任务 |
 | [目标检测-YOLOv3](https://github.com/Monday-Leo/Paddle_tutorial/tree/master/%E7%AC%AC10%E8%AE%B2%20%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8BYOLOv3-backbone) | YOLOv3-backbone部分介绍                                     |
+| [目标检测-YOLOv3](https://github.com/Monday-Leo/Paddle_tutorial/tree/master/%E7%AC%AC11%E8%AE%B2%20%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8BYOLOv3-neck%E3%80%81head) | YOLOv3-neck、head和解码部分介绍                             |
 
